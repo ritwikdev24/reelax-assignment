@@ -1,16 +1,103 @@
-# React + Vite
+# Reelax React Assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A pixel-perfect and responsive React JS implementation based on the provided Figma design.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Live Website: Add Your Vercel Link Here
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📌 Project Overview
 
-## Expanding the ESLint configuration
+This project was built as part of the Reelax frontend assignment.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The goal of the assignment was to convert the provided Figma UI design into a fully responsive and pixel-perfect React application using component-based architecture.
+
+---
+
+## 🛠️ Tech Stack
+
+- React JS
+- Vite
+- Tailwind CSS
+- React Icons
+
+---
+
+## ✨ Features
+
+- Pixel-perfect UI implementation
+- Fully responsive layout
+- Reusable React components
+- Clean folder structure
+- Modern UI styling using Tailwind CSS
+- Interactive buttons and inputs
+- Responsive navbar and form layout
+
+---
+
+## 📂 Folder Structure
+
+```bash
+src/
+│
+├── components/
+│   ├── Navbar.jsx
+│   ├── BillingForm.jsx
+│   ├── OrderSummary.jsx
+│   ├── InputField.jsx
+│   ├── CouponCard.jsx
+│   └── Button.jsx
+│
+├── pages/
+│   └── Home.jsx
+│
+├── App.jsx
+├── main.jsx
+└── index.css
+```
+
+---
+
+## ⚙️ Installation & Setup
+
+Move into project folder:
+
+```bash
+cd reelax-assignment
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run development server:
+
+```bash
+npm run dev
+```
+
+---
+
+## 📱 Responsive Design
+
+The application is optimized for:
+
+- Mobile Devices
+- Tablets
+- Desktop Screens
+
+---
+
+## 🎨 Design Reference
+
+Figma Design used for implementation:
+- Reelax Assignment UI
+
+---
+## 👨‍💻 Author
+
+Ritwik K
